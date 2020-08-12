@@ -1,2 +1,2 @@
-# Sistemas-Operativos 2020
+# Sistemas-Operativos 
 Repositorio de prácticas Sistemas Operativos
