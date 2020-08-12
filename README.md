@@ -1,2 +1,3 @@
 # Sistemas-Operativos
-Repositorio de prácticas Sistemas Operativos
+Repositorio de prácticas Sistemas Operativos HOLA
+
