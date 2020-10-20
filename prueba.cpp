@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
     
-    cout<<"prueba de que funciono jaja  ";
+    cout<<"Si jaló wu ";
     return 0;
 }
