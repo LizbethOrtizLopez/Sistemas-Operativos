@@ -16,6 +16,7 @@ main(int argc, char **argv)
   for(i=1; i<argc; i++)
     if (atoi(argv[i])==1){
         printf(1,"No lo mates :(...\n");
+        exit();
     }
     else{
         kill(atoi(argv[i]));
